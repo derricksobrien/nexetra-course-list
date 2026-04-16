@@ -1,0 +1,287 @@
+﻿[
+    {
+        "repo":  "course-amazon-rds-for-postgresql",
+        "url":  "https://github.com/derricksobrien/course-amazon-rds-for-postgresql",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-azure-postgresql-flexible-server",
+        "url":  "https://github.com/derricksobrien/course-azure-postgresql-flexible-server",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-data-analytics-bootcamp",
+        "url":  "https://github.com/derricksobrien/course-data-analytics-bootcamp",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-data-engineering-automation-ansible-apache-airflow",
+        "url":  "https://github.com/derricksobrien/course-data-engineering-automation-ansible-apache-airflow",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-jupyter-widgets-programming",
+        "url":  "https://github.com/derricksobrien/course-jupyter-widgets-programming",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-postgresql-for-administrators",
+        "url":  "https://github.com/derricksobrien/course-postgresql-for-administrators",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-postgresql-for-python-programmers",
+        "url":  "https://github.com/derricksobrien/course-postgresql-for-python-programmers",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-postgresql-stored-procedures-and-functions",
+        "url":  "https://github.com/derricksobrien/course-postgresql-stored-procedures-and-functions",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-practical-apache-spark-for-data-pipelines",
+        "url":  "https://github.com/derricksobrien/course-practical-apache-spark-for-data-pipelines",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-python-primer-for-data-science-and-machine-learnin",
+        "url":  "https://github.com/derricksobrien/course-python-primer-for-data-science-and-machine-learnin",
+        "category":  "AI Data Analysis"
+    },
+    {
+        "repo":  "course-azure-administrator",
+        "url":  "https://github.com/derricksobrien/course-azure-administrator",
+        "category":  "Cloud Migration"
+    },
+    {
+        "repo":  "course-azure-data-engineer",
+        "url":  "https://github.com/derricksobrien/course-azure-data-engineer",
+        "category":  "Cloud Migration"
+    },
+    {
+        "repo":  "course-azure-solutions-architect",
+        "url":  "https://github.com/derricksobrien/course-azure-solutions-architect",
+        "category":  "Cloud Migration"
+    },
+    {
+        "repo":  "course-cicd-using-azure-pipelines",
+        "url":  "https://github.com/derricksobrien/course-cicd-using-azure-pipelines",
+        "category":  "Cloud Migration"
+    },
+    {
+        "repo":  "course-devops-bootcamp",
+        "url":  "https://github.com/derricksobrien/course-devops-bootcamp",
+        "category":  "Cloud Migration"
+    },
+    {
+        "repo":  "course-kubernetes-programmers",
+        "url":  "https://github.com/derricksobrien/course-kubernetes-programmers",
+        "category":  "Cloud Migration"
+    },
+    {
+        "repo":  "course-apache-airflow-administration-scalable-workflow-au",
+        "url":  "https://github.com/derricksobrien/course-apache-airflow-administration-scalable-workflow-au",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-apache-airflow-programming-developing-configuring-",
+        "url":  "https://github.com/derricksobrien/course-apache-airflow-programming-developing-configuring-",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-build-net-10-web-apps-with-blazor",
+        "url":  "https://github.com/derricksobrien/course-build-net-10-web-apps-with-blazor",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-build-net-10-web-apps-with-blazor-and-minimal-api",
+        "url":  "https://github.com/derricksobrien/course-build-net-10-web-apps-with-blazor-and-minimal-api",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-build-net-10-web-apps-with-blazor-and-web-api",
+        "url":  "https://github.com/derricksobrien/course-build-net-10-web-apps-with-blazor-and-web-api",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-distributed-task-automation-with-python-celery-and",
+        "url":  "https://github.com/derricksobrien/course-distributed-task-automation-with-python-celery-and",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-distributed-task-automation-with-python-faust-and-",
+        "url":  "https://github.com/derricksobrien/course-distributed-task-automation-with-python-faust-and-",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-fundamentals-of-deep-learning-and-development-of-g",
+        "url":  "https://github.com/derricksobrien/course-fundamentals-of-deep-learning-and-development-of-g",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-github-developers-training",
+        "url":  "https://github.com/derricksobrien/course-github-developers-training",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-github-developers-training-13572",
+        "url":  "https://github.com/derricksobrien/course-github-developers-training-13572",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-github-developers-training-21151",
+        "url":  "https://github.com/derricksobrien/course-github-developers-training-21151",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-github-developers-training-3838",
+        "url":  "https://github.com/derricksobrien/course-github-developers-training-3838",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-github-developers-training-42107",
+        "url":  "https://github.com/derricksobrien/course-github-developers-training-42107",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-github-developers-training-v2",
+        "url":  "https://github.com/derricksobrien/course-github-developers-training-v2",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-github-for-developers-training",
+        "url":  "https://github.com/derricksobrien/course-github-for-developers-training",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-mastering-rust",
+        "url":  "https://github.com/derricksobrien/course-mastering-rust",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-memory-safe-programming-with-rust",
+        "url":  "https://github.com/derricksobrien/course-memory-safe-programming-with-rust",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-power-platform-developer",
+        "url":  "https://github.com/derricksobrien/course-power-platform-developer",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-python-advanced",
+        "url":  "https://github.com/derricksobrien/course-python-advanced",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-rust-essentials",
+        "url":  "https://github.com/derricksobrien/course-rust-essentials",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-rust-for-c-programmers",
+        "url":  "https://github.com/derricksobrien/course-rust-for-c-programmers",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-rust-for-javascripttypescript-programmers",
+        "url":  "https://github.com/derricksobrien/course-rust-for-javascripttypescript-programmers",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-rust-for-python-programmers",
+        "url":  "https://github.com/derricksobrien/course-rust-for-python-programmers",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-rust-parallel-programming",
+        "url":  "https://github.com/derricksobrien/course-rust-parallel-programming",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-rust-refresher",
+        "url":  "https://github.com/derricksobrien/course-rust-refresher",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-short-course-on-rust-for-python-programmers",
+        "url":  "https://github.com/derricksobrien/course-short-course-on-rust-for-python-programmers",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-spring-boot-mastery",
+        "url":  "https://github.com/derricksobrien/course-spring-boot-mastery",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-task-automation-with-python",
+        "url":  "https://github.com/derricksobrien/course-task-automation-with-python",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-test-driven-development-with-net-10-blazor-and-min",
+        "url":  "https://github.com/derricksobrien/course-test-driven-development-with-net-10-blazor-and-min",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-test-driven-development-with-net-10-blazor-and-web",
+        "url":  "https://github.com/derricksobrien/course-test-driven-development-with-net-10-blazor-and-web",
+        "category":  "Developer Up-skilling"
+    },
+    {
+        "repo":  "course-azure-cognitive-services-open-ai-and-prompt-engine",
+        "url":  "https://github.com/derricksobrien/course-azure-cognitive-services-open-ai-and-prompt-engine",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "course-developing-ai-models-in-microsoft-azure",
+        "url":  "https://github.com/derricksobrien/course-developing-ai-models-in-microsoft-azure",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "course-generative-ai-and-llms-for-python-programmers",
+        "url":  "https://github.com/derricksobrien/course-generative-ai-and-llms-for-python-programmers",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "course-generative-ai-engineering",
+        "url":  "https://github.com/derricksobrien/course-generative-ai-engineering",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "course-microsoft-copilot-integration-services-to-transfor",
+        "url":  "https://github.com/derricksobrien/course-microsoft-copilot-integration-services-to-transfor",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "course-ml-and-ai-for-software-developers",
+        "url":  "https://github.com/derricksobrien/course-ml-and-ai-for-software-developers",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "course-openai-fundamentals",
+        "url":  "https://github.com/derricksobrien/course-openai-fundamentals",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "GenAIOpsHints",
+        "url":  "https://github.com/derricksobrien/GenAIOpsHints",
+        "category":  "Productivity \u0026 AI"
+    },
+    {
+        "repo":  "course-cybersec-cfr-410",
+        "url":  "https://github.com/derricksobrien/course-cybersec-cfr-410",
+        "category":  "Security Readiness"
+    },
+    {
+        "repo":  "course-cybersecurity-bootcamp",
+        "url":  "https://github.com/derricksobrien/course-cybersecurity-bootcamp",
+        "category":  "Security Readiness"
+    },
+    {
+        "repo":  "course-github-advanced-security-training",
+        "url":  "https://github.com/derricksobrien/course-github-advanced-security-training",
+        "category":  "Security Readiness"
+    }
+]
