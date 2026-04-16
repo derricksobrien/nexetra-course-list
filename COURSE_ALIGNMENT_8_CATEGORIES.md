@@ -1,18 +1,20 @@
-﻿# 57-Course Alignment to 8 Nexetra Offerings
+﻿# Course Alignment to 8 Nexetra Offerings
 
 Source guides: Nexetra website v4.pdf and Nextera sales sheet v3.pdf
+
+Total repos assessed: 72
 
 | Category | Matched Courses |
 |---|---:|
 | Cloud Migration | 6 |
 | Productivity & AI | 8 |
-| Sales Enablement | 0 |
-| Change Management | 0 |
+| Sales Enablement | 5 |
+| Change Management | 5 |
 | AI Data Analysis | 10 |
 | Security Readiness | 3 |
 | Developer Up-skilling | 30 |
-| Skills Gap Analysis | 0 |
-| Total | 57 |
+| Skills Gap Analysis | 5 |
+| Total | 72 |
 
 ## Repo-to-Category Alignment
 
@@ -28,6 +30,11 @@ Source guides: Nexetra website v4.pdf and Nextera sales sheet v3.pdf
 | course-postgresql-stored-procedures-and-functions | AI Data Analysis |
 | course-practical-apache-spark-for-data-pipelines | AI Data Analysis |
 | course-python-primer-for-data-science-and-machine-learnin | AI Data Analysis |
+| course-change-leadership-for-digital-transformation | Change Management |
+| course-enterprise-change-governance-and-benefits-realisation | Change Management |
+| course-leading-organisational-change-for-ai-adoption | Change Management |
+| course-managing-resistance-and-building-change-champions | Change Management |
+| course-prosci-inspired-change-management-practitioner | Change Management |
 | course-azure-administrator | Cloud Migration |
 | course-azure-data-engineer | Cloud Migration |
 | course-azure-solutions-architect | Cloud Migration |
@@ -72,6 +79,16 @@ Source guides: Nexetra website v4.pdf and Nextera sales sheet v3.pdf
 | course-ml-and-ai-for-software-developers | Productivity & AI |
 | course-openai-fundamentals | Productivity & AI |
 | GenAIOpsHints | Productivity & AI |
+| course-ai-powered-sales-with-microsoft-copilot | Sales Enablement |
+| course-consultative-selling-for-technology-solutions | Sales Enablement |
+| course-executive-sales-presentations-and-storytelling | Sales Enablement |
+| course-sales-enablement-for-cloud-and-managed-services | Sales Enablement |
+| course-sales-enablement-fundamentals | Sales Enablement |
 | course-cybersec-cfr-410 | Security Readiness |
 | course-cybersecurity-bootcamp | Security Readiness |
 | course-github-advanced-security-training | Security Readiness |
+| course-building-enterprise-skills-matrices-and-learning-paths | Skills Gap Analysis |
+| course-data-driven-talent-gap-reporting-for-leaders | Skills Gap Analysis |
+| course-skills-gap-analysis-foundations | Skills Gap Analysis |
+| course-strategic-workforce-planning-and-skills-forecasting | Skills Gap Analysis |
+| course-workforce-capability-assessment-with-ai | Skills Gap Analysis |

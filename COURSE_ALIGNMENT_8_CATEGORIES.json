@@ -50,6 +50,31 @@
         "category":  "AI Data Analysis"
     },
     {
+        "repo":  "course-change-leadership-for-digital-transformation",
+        "url":  "https://github.com/derricksobrien/course-change-leadership-for-digital-transformation",
+        "category":  "Change Management"
+    },
+    {
+        "repo":  "course-enterprise-change-governance-and-benefits-realisation",
+        "url":  "https://github.com/derricksobrien/course-enterprise-change-governance-and-benefits-realisation",
+        "category":  "Change Management"
+    },
+    {
+        "repo":  "course-leading-organisational-change-for-ai-adoption",
+        "url":  "https://github.com/derricksobrien/course-leading-organisational-change-for-ai-adoption",
+        "category":  "Change Management"
+    },
+    {
+        "repo":  "course-managing-resistance-and-building-change-champions",
+        "url":  "https://github.com/derricksobrien/course-managing-resistance-and-building-change-champions",
+        "category":  "Change Management"
+    },
+    {
+        "repo":  "course-prosci-inspired-change-management-practitioner",
+        "url":  "https://github.com/derricksobrien/course-prosci-inspired-change-management-practitioner",
+        "category":  "Change Management"
+    },
+    {
         "repo":  "course-azure-administrator",
         "url":  "https://github.com/derricksobrien/course-azure-administrator",
         "category":  "Cloud Migration"
@@ -270,6 +295,31 @@
         "category":  "Productivity \u0026 AI"
     },
     {
+        "repo":  "course-ai-powered-sales-with-microsoft-copilot",
+        "url":  "https://github.com/derricksobrien/course-ai-powered-sales-with-microsoft-copilot",
+        "category":  "Sales Enablement"
+    },
+    {
+        "repo":  "course-consultative-selling-for-technology-solutions",
+        "url":  "https://github.com/derricksobrien/course-consultative-selling-for-technology-solutions",
+        "category":  "Sales Enablement"
+    },
+    {
+        "repo":  "course-executive-sales-presentations-and-storytelling",
+        "url":  "https://github.com/derricksobrien/course-executive-sales-presentations-and-storytelling",
+        "category":  "Sales Enablement"
+    },
+    {
+        "repo":  "course-sales-enablement-for-cloud-and-managed-services",
+        "url":  "https://github.com/derricksobrien/course-sales-enablement-for-cloud-and-managed-services",
+        "category":  "Sales Enablement"
+    },
+    {
+        "repo":  "course-sales-enablement-fundamentals",
+        "url":  "https://github.com/derricksobrien/course-sales-enablement-fundamentals",
+        "category":  "Sales Enablement"
+    },
+    {
         "repo":  "course-cybersec-cfr-410",
         "url":  "https://github.com/derricksobrien/course-cybersec-cfr-410",
         "category":  "Security Readiness"
@@ -283,5 +333,30 @@
         "repo":  "course-github-advanced-security-training",
         "url":  "https://github.com/derricksobrien/course-github-advanced-security-training",
         "category":  "Security Readiness"
+    },
+    {
+        "repo":  "course-building-enterprise-skills-matrices-and-learning-paths",
+        "url":  "https://github.com/derricksobrien/course-building-enterprise-skills-matrices-and-learning-paths",
+        "category":  "Skills Gap Analysis"
+    },
+    {
+        "repo":  "course-data-driven-talent-gap-reporting-for-leaders",
+        "url":  "https://github.com/derricksobrien/course-data-driven-talent-gap-reporting-for-leaders",
+        "category":  "Skills Gap Analysis"
+    },
+    {
+        "repo":  "course-skills-gap-analysis-foundations",
+        "url":  "https://github.com/derricksobrien/course-skills-gap-analysis-foundations",
+        "category":  "Skills Gap Analysis"
+    },
+    {
+        "repo":  "course-strategic-workforce-planning-and-skills-forecasting",
+        "url":  "https://github.com/derricksobrien/course-strategic-workforce-planning-and-skills-forecasting",
+        "category":  "Skills Gap Analysis"
+    },
+    {
+        "repo":  "course-workforce-capability-assessment-with-ai",
+        "url":  "https://github.com/derricksobrien/course-workforce-capability-assessment-with-ai",
+        "category":  "Skills Gap Analysis"
     }
 ]
